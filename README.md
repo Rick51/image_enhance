@@ -8,7 +8,7 @@ python main.py
 
 
 
-[!raw_input](https://github.com/Rick51/image_enhance/tree/master/images/10.jpg)
+![raw_input](https://github.com/Rick51/image_enhance/tree/master/images/10.jpg)
 
 
 
@@ -16,7 +16,7 @@ python main.py
 
 
 
-[!process](https://github.com/Rick51/image_enhance/tree/master/images/process.jpg)
+![process](https://github.com/Rick51/image_enhance/tree/master/images/process.jpg)
 
 
 
@@ -24,7 +24,7 @@ python main.py
 
 
 
-[!output](https://github.com/Rick51/image_enhance/tree/master/images/final.jpg)
+![output](https://github.com/Rick51/image_enhance/tree/master/images/final.jpg)
 
 
 
